@@ -1,2 +1,2 @@
-# GCSO
-To indicate the safety of the car while hitting an obstacle.
+# p5.play-boilerplate
+Boiler plate for p5.play
